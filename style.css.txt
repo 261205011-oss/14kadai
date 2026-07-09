@@ -1,0 +1,28 @@
+img{
+  width: 300px;
+}
+
+.musi{
+  width:120px;
+}
+
+#back{
+  left:0;
+  top:0;
+}
+
+#chou0{
+  left:200;
+  top:350;
+}
+
+
+#chou1{
+  left:400;
+  top:300;
+}
+
+#chou2{
+  left:600;
+  top:400;
+}
